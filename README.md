@@ -1,4 +1,4 @@
-# Repositório Equipe 7 INF331
+# Equipe 7 - INF331
 
 ## Equipe 7
 
