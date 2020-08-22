@@ -13,3 +13,4 @@
 ## Lab03 - Tarefa 4
 
 * [Lab03 - Tarefa 4 - Tarefa Projeto de Composição de Pedido](https://github.com/inf331-equipe7/tarefas/blob/master/images/Tarefa%204%20-%20Diagrama%201%20com%20MVC.png)
+* [Lab03 - Tarefa 4 - Leilão Virtual Invertido de Produtos]()
